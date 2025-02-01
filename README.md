@@ -1,8 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/-python?style=social&logo=python&logoColor=%233776AB&logoSize=large&label=Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&color=%233776AB)
 
-# Привет, меня зовут Антон!
-
-## Обо мне
 C 2022 года занимаюсь разработкой на Python.
 За это время успел выполнить несколько проектов 
 с использование фреймворков Django, Flask, FastAPI.
